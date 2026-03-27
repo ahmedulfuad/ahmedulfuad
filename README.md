@@ -1,7 +1,7 @@
 # Hello there! I'm Ahmedul Haque Fuad 👋
 
 ### 🚀 Innovative Software Engineer | Python & Django Expert
-I am a **Senior Software Engineer** with over 5 years of experience building scalable, high-reliability backend architectures. My core focus is on **Django and PostgreSQL**, with a specialized edge in **Agentic AI orchestration** to automate complex SDLC workflows.
+I am a **Software Engineer** with over 5 years of experience building scalable, high-reliability backend architectures. My core focus is on **Django and PostgreSQL**, with a specialized edge in **Agentic AI orchestration** to automate complex SDLC workflows.
 
 ---
 
